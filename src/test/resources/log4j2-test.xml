@@ -8,6 +8,7 @@
 
     <Loggers>
 
+        <!-- feature1 branch changes  -->
         <!-- CXF is used heavily by Mule for web services -->
         <AsyncLogger name="org.apache.cxf" level="WARN"/>
 
